@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import sys
+# Translates strings to morse code
 
 morse_dict = {'A' : '.-', 'B' : '-...', 'C' : '-.-.', 'D' : '-..',
  			 'E' : '.',	 'F' : '..-.', 'G' : '--.',  'H' : '....',
